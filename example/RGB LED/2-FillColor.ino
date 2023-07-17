@@ -2,7 +2,7 @@
 Author      : Teeraphat Kullanankanjana
 Version     : 1.0
 Date        : 17/07/2023
-Description : Template file for using MKR IoT Carrier
+Description : Fill the specific color with a specific number of pixels on the RGB LED.
 Copyright (C) 2023 Teeraphat Kullanankanjana. All right reserved.
 */
 
