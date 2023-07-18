@@ -10,21 +10,27 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
 ## Example Usage with MKR IoT Carrier Rev1
 - Template Program
 - RGB LED
-  - Set Color Pixel
-  - Fill Color 
-  - Blink
-  - Rainbow
+  - [Set Color Pixel](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/1-SetPixelColor.ino)
+  - [Fill Color](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/2-FillColor.ino) 
+  - [Blink](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/3-Blink.ino)
+  - [Rainbow Blink](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/4-Rainbow1.ino)
+  - [Rainbow Running](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/5-Rainbow2.ino)
 - Buzzer
-  - Beep
-  - Basic 8 Bit Music
+  - [Beep](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Buzzer/1-Beep.ino)
+  - [Basic 8 Bit Music](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Buzzer/2-Music.ino)
 - Display
-  - Show Text
-  - Icon and Image
+  - [Show Text](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/1-ShowText.ino)
+  - [Line Drawing](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/2-DrawLine.ino)
+  - [Circle Drawing](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/3-DrawCircle.ino)
+  - [Rectangle Drawing](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/4-DrawRectangle.ino)
+  - [Triangle Drawing](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/5-DrawTriangle.ino)
+  - [Character Drawing](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/6-DrawCharacter.ino)
 - Capacitive Touch Buttons 
-  - Counter
-  - RGB LED Control
+  - [Detect Touch](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Capacitive%20Touch%20Buttons/1-ButtonTouched.ino)
+  - [RGB LED Control](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Capacitive%20Touch%20Buttons/2-LEDControl.ino)
+  - [Counter](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Capacitive%20Touch%20Buttons/3-Counter.ino) 
 - Relay
-  - Turn On/Off Relay
+  - [Relay Control](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Relays/1-RelayControl.ino)
 - Humidity & Temperature Sensor
   - Read Humidity & Temperature 
 - Pressure Sensor
