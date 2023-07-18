@@ -17,14 +17,14 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
 - Buzzer
   - Beep
   - Basic 8 Bit Music
-- Relay
-  - Turn On/Off Relay
 - Display
   - Show Text
   - Icon and Image
 - Capacitive Touch Buttons 
   - Counter
   - RGB LED Control
+- Relay
+  - Turn On/Off Relay
 - Humidity & Temperature Sensor
   - Read Humidity & Temperature 
 - Pressure Sensor
