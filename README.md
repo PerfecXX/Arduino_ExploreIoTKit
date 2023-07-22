@@ -44,8 +44,8 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
   - [Read Gesture Direction](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Light/2-ReadGesture.ino)
   - [Read Proximity](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Light/3-ReadProximity.ino)
 - SD Card
-  - Write Text File
-  - Read Text File
+  - [Write Text File](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/SD%20Card/1-WriteTextFile.ino)
+  - [Read Text File](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/SD%20Card/2-ReadTextFile.ino)
   
 ## Example usage with the Arduino IoT Cloud Widget
 - Value
