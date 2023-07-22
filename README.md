@@ -40,8 +40,9 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
   - [Read Gyroscope](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/IMU/2-ReadGyroscope.ino)
   - [Shake Detection](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/IMU/3-ShakeDetection.ino)
 - RGB and Gesture Sensor
-  - Read RGB Value
-  - Read Gesture Direction
+  - [Read RGB Value](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Light/1-ReadRGB.ino)
+  - [Read Gesture Direction](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Light/2-ReadGesture.ino)
+  - [Read Proximity](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Light/3-ReadProximity.ino)
 - SD Card
   - Write Text File
   - Read Text File
