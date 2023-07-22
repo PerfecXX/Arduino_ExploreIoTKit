@@ -32,13 +32,13 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
 - Relay
   - [Relay Control](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Relays/1-RelayControl.ino)
 - Humidity & Temperature Sensor
-  - Read Humidity & Temperature 
+  - [Read Humidity & Temperature](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Environment%20Sensor/tempHum.ino) 
 - Pressure Sensor
-  - Read Pressure 
+  - [Read Pressure](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Pressure/1-ReadPressure.ino) 
 - IMU Accelerometer & Gyroscope Sensors
-  - Read Accelerometer
-  - Read Gyroscope
-  - Shake Detection
+  - [Read Accelerometer](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/IMU/1-ReadAccelerometer.ino)
+  - [Read Gyroscope](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/IMU/2-ReadGyroscope.ino)
+  - [Shake Detection](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/IMU/3-ShakeDetection.ino)
 - RGB and Gesture Sensor
   - Read RGB Value
   - Read Gesture Direction
