@@ -26,7 +26,7 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
   - [Triangle Drawing](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/5-DrawTriangle.ino)
   - [Character Drawing](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Display/6-DrawCharacter.ino)
 - Capacitive Touch Buttons 
-  - [Detect Touch](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Capacitive%20Touch%20Buttons/1-ButtonTouched.ino)
+  - [Touch Detection](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Capacitive%20Touch%20Buttons/1-ButtonTouched.ino)
   - [RGB LED Control](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Capacitive%20Touch%20Buttons/2-LEDControl.ino)
   - [Counter](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/Capacitive%20Touch%20Buttons/3-Counter.ino) 
 - Relay
