@@ -8,7 +8,7 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
   - Offline Development with the Arduino IDE
   - Online Development with the Arduino Web Editor
 ## Example Usage with MKR IoT Carrier Rev1
-- Template Program
+- [Template Program](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/template.ino)
 - RGB LED
   - [Set Color Pixel](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/1-SetPixelColor.ino)
   - [Fill Color](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/2-FillColor.ino) 
