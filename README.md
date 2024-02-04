@@ -3,11 +3,11 @@
 Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 1010, Arduino MKR IoT Carrier, and Arduino IoT Cloud platform.
 
 ## Getting started with Arduino Explore IoT Kit
+
 - [Introduction to Arduino Explore IoT Kit](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/doc/00-kit%20introduction.md)
-- Development Platform
-  - Online Development with the Arduino Web Editor
-  - Offline Development with the Arduino IDE
+  
 ## Example Usage with MKR IoT Carrier Rev1
+
 - [Template Program](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/template.ino)
 - RGB LED
   - [Set Color Pixel](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/RGB%20LED/1-SetPixelColor.ino)
@@ -46,18 +46,9 @@ Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 101
 - SD Card
   - [Write Text File](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/SD%20Card/1-WriteTextFile.ino)
   - [Read Text File](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/SD%20Card/2-ReadTextFile.ino)
-  
-## Example usage with the Arduino IoT Cloud Widget
-- Value
-- Guage
-- Switch 
-- Slider 
-- Steper
-- Messager 
-- Value Selector
-- Value Dropdown
-- Chart
 
 ## Reference
+
 https://docs.arduino.cc/tutorials/mkr-iot-carrier/mkr-iot-carrier-01-technical-reference
+
 https://www.arduino.cc/reference/en/libraries/arduino_mkriotcarrier/
