@@ -1,8 +1,8 @@
 /*
   Author      : Teeraphat Kullanankanjana
-  Version     : 1.0
-  Date        : 22/07/2023
-  Description : Read Gyroscope Data from IMU Module
+  Version     : 1.1
+  Date        : 04/02/2024
+  Description : Read Gyroscope Data from IMU Module (Compatible with Serial Plotter)
   Copyright (C) 2023 Teeraphat Kullanankanjana. All rights reserved.
 */
 
@@ -13,7 +13,7 @@
 MKRIoTCarrier carrier;
 
 // Variables to store gyroscope data along the x, y, and z axes
-float gX, gY, gZ;
+float gX,gY,gZ;
 
 void setup() {
   // Initialize the Arduino MKR IoT Carrier
@@ -30,11 +30,15 @@ void loop() {
     carrier.IMUmodule.readGyroscope(gX, gY, gZ);
   }
 
-  // Print the gyroscope data to the serial monitor
-  Serial.print("gX: ");
+  // Print the acceleration values to the serial monitor/serial plotter
+  Serial.print("gX:");
   Serial.print(gX);
-  Serial.print(" gY: ");
+  Serial.print(",");
+  Serial.print("gY:");
   Serial.print(gY);
-  Serial.print(" gZ: ");
+  Serial.print(",");
+  Serial.print("gZ:");
   Serial.println(gZ);
+  
+  delay(500);
 }
