@@ -1,6 +1,6 @@
-# Arduino Explore IoT Kit Rev1
+# Arduino Explore IoT Kit
 
-Example usage for the Arduino Explore IoT Kit Rev1 by using the Arduino WiFi 1010, Arduino MKR IoT Carrier, and Arduino IoT Cloud platform.
+Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Arduino MKR IoT Carrier, and Arduino IoT Cloud platform.
 
 ## Getting started with Arduino Explore IoT Kit
 
