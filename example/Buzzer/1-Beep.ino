@@ -1,7 +1,7 @@
 /*
 Author      : Teeraphat Kullanankanjana
-Version     : 1.0
-Date        : 17/07/2023
+Version     : 1.1
+Date        : 07/02/2024
 Description : Plays a beep sound on the buzzer.
 Copyright (C) 2023 Teeraphat Kullanankanjana. All right reserved.
 */
@@ -22,12 +22,10 @@ void setup() {
   
   // Initialize the serial communication at 9600 baud rate
   Serial.begin(9600);
-
-  // Play a beep sound on the buzzer
-  carrier.Buzzer.beep(freqency, duration_ms);
 }
 
 
 void loop() {
-  // Your code goes here
+  carrier.Buzzer.beep(freqency, duration_ms);
+  delay(1000);
 }
