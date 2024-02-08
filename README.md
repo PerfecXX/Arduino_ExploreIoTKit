@@ -46,6 +46,8 @@ Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Ar
 - SD Card
   - [Write Text File](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/SD%20Card/1-WriteTextFile.ino)
   - [Read Text File](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/example/SD%20Card/2-ReadTextFile.ino)
+- Capacitive Soil Sensor
+  - [Read Soil Moisture]()
 
 ## Reference
 
