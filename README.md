@@ -64,3 +64,5 @@ Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Ar
 https://docs.arduino.cc/tutorials/mkr-iot-carrier/mkr-iot-carrier-01-technical-reference
 
 https://www.arduino.cc/reference/en/libraries/arduino_mkriotcarrier/
+
+https://docs.arduino.cc/tutorials/mkr-iot-carrier-rev2/cheat-sheet/
