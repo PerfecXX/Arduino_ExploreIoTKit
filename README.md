@@ -11,6 +11,7 @@ Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Ar
   - [Test RGB LED](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/Builtin%20RGB%20LED/01-rgb_test.ino)
 - WiFi NINA
   - [WiFi Scan](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/01-wifi_scan.ino)
+  - [WiFi Connect](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/02-wifi_connect.ino)
   
 ## Example Usage with MKR IoT Carrier Rev1
 
