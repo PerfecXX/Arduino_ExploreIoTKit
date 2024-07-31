@@ -12,6 +12,9 @@ Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Ar
 - WiFi NINA
   - [WiFi Scan](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/01-wifi_scan.ino)
   - [WiFi Connect](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/02-wifi_connect.ino)
+  - Socket
+    - [client](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/Socket/01-client.ino)
+    - [server](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/Socket/02-server.ino)
   
 ## Example Usage with MKR IoT Carrier Rev1
 
