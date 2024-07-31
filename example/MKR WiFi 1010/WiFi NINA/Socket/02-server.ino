@@ -8,8 +8,8 @@ Copyright (C) 2024 Teeraphat Kullanankanjana. All rights reserved.
 
 #include <WiFiNINA.h>  // Include the WiFiNINA library for WiFi functionality
 
-const char* ssid = "iMakeEDU";        // Replace with your network's SSID
-const char* password = "imake1234"; // Replace with your network's password
+const char* ssid = "your_SSID";        // Replace with your network's SSID
+const char* password = "your_PASSWORD"; // Replace with your network's password
 const int port = 1102;                 // Port number to listen for incoming connections
 
 WiFiServer server(port);  // Create a WiFiServer object listening on the specified port
