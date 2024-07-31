@@ -18,6 +18,8 @@ Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Ar
   - Web Server
     - [RGB Control (AP Mode)](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/WebServer/01-ap_rgb_control.ino)
     - [RGB Control (STA Mode)](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/WebServer/02-sta_rgb_control.ino)
+  - MQTT
+    - [Subsribe and Publish](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/WiFi%20NINA/MQTT/01-mqtt_test.ino)
   
 ## Example Usage with MKR IoT Carrier Rev1
 
