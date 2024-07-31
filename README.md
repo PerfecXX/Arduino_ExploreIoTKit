@@ -5,6 +5,10 @@ Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Ar
 ## Getting started with Arduino Explore IoT Kit
 
 - [Introduction to Arduino Explore IoT Kit](https://github.com/PerfecXX/ArduinoExploreIoTKitRev1/blob/main/doc/00-kit%20introduction.md)
+
+## Example Usage with MKR WiFi 1010
+- Builtin RGB LED
+  - [Test RGB LED](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/MKR%20WiFi%201010/Builtin%20RGB%20LED/01-rgb_test.ino)
   
 ## Example Usage with MKR IoT Carrier Rev1
 
