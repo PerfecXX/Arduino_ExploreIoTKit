@@ -3,8 +3,8 @@
 #include <ArduinoIoTCloud.h>
 #include <Arduino_ConnectionHandler.h>
 
-const char SSID[]     = "test_wifi";    // Network SSID (name)
-const char PASS[]     = "1234567890";    // Network password (use for WPA, or use as key for WEP)
+const char SSID[]     = "LabIOT_03";    // Network SSID (name)
+const char PASS[]     = "12345678";    // Network password (use for WPA, or use as key for WEP)
 
 void onMessageChange();
 void onHumidityChange();
