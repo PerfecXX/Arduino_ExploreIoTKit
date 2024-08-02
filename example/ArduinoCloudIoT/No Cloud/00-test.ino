@@ -42,6 +42,10 @@ void onLedStateChange() {
   } else {
     Serial.println("LED OFF!");
     carrier.leds.setPixelColor(0, off);
+    carrier.leds.setPixelColor(1, off);
+    carrier.leds.setPixelColor(2, off);
+    carrier.leds.setPixelColor(3, off);
+    carrier.leds.setPixelColor(4, off);
     carrier.leds.show();
   }
 }
