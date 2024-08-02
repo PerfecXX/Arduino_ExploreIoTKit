@@ -1,20 +1,7 @@
 #include <ArduinoIoTCloud.h>
 #include <Arduino_ConnectionHandler.h>
 #include <Arduino_MKRIoTCarrier.h>
-
-const char SSID[] = "PX_SYSTEM_2.4G";  // Network SSID (name)
-const char PASS[] = "PX123456789";     // Network password (use for WPA, or use as key for WEP)
-
-void onMessageChange();
-void onHumidityChange();
-void onTemperatureChange();
-void onLedStateChange();
-
-String message;
-float humidity;
-float temperature;
-bool led_state;
-
+#include "thingProperties.h"
 MKRIoTCarrier carrier;
 
 uint32_t red = carrier.leds.Color(255, 0, 0);
@@ -29,11 +16,8 @@ void setup() {
   Serial.begin(9600);
   delay(1500);
 
-  ArduinoCloud.addProperty(message, READWRITE, ON_CHANGE, onMessageChange);
-  ArduinoCloud.addProperty(humidity, READWRITE, ON_CHANGE, onHumidityChange);
-  ArduinoCloud.addProperty(temperature, READWRITE, ON_CHANGE, onTemperatureChange);
-  ArduinoCloud.addProperty(led_state, READWRITE, ON_CHANGE, onLedStateChange);
-  WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
+  initProperties();
+  ArduinoCloud.begin(ArduinoIoTPreferredConnection);
   setDebugMessageLevel(2);
   ArduinoCloud.printDebugInfo();
 }
