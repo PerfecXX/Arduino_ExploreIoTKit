@@ -67,6 +67,7 @@ Example usage for the Arduino Explore IoT Kit by using the Arduino WiFi 1010, Ar
 ## IoT Platform
 
 - Arduino IoT Cloud
+  - [IDE Template](https://github.com/PerfecXX/ArduinoExploreIoTKit/tree/main/example/ArduinoCloudIoT/No%20Cloud)
   - [RGB Control with Arduino Cloud](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/ArduinoCloudIoT/RGB%20LED/01%20-%20LEDControl.ino)
   - [Temperature and Humidity Monitoring](https://github.com/PerfecXX/ArduinoExploreIoTKit/blob/main/example/ArduinoCloudIoT/Humidity%20and%20Temperature/01%20-%20Monitoring%20Temp%20and%20Hum.ino)
 
