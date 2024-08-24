@@ -1,7 +1,7 @@
 /*
   Author      : Teeraphat Kullanankanjana
-  Version     : 1.0
-  Date        : 18/07/2023
+  Version     : 1.1
+  Date        : 24/08/2024
   Description : Read Temperature and Humidity
   Copyright (C) 2023 Teeraphat Kullanankanjana. All right reserved.
 */
@@ -31,11 +31,9 @@ void loop() {
   humidity = carrier.Env.readHumidity();
 
   // Print the temperature and humidity readings to the serial monitor
-  Serial.print("Temperature: ");
-  Serial.print(temperature);
-  Serial.println(" C");
+  Serial.print("Temperature(C):");
+  Serial.println(temperature);
 
-  Serial.print("Humidity: ");
-  Serial.print(humidity);
-  Serial.println(" %");
+  Serial.print("Humidity(%):");
+  Serial.println(humidity);
 }
